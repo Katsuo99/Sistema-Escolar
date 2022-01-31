@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\bin\Debug\Udemy Universidad.exe
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\bin\Debug\Udemy Universidad.pdb
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\bin\Debug\Udemy Universidad.xml
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.vbprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy_Universidad.Form1.resources
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy_Universidad.Resources.resources
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.vbproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.vbproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.exe
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.xml
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy Universidad.pdb
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy_Universidad.Usuarios.resources
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy_Universidad.mp_matriculas.resources
+C:\Users\Dell\Desktop\Udemy Universidad\Udemy Universidad\obj\Debug\Udemy_Universidad.Alumnos_Form.resources
